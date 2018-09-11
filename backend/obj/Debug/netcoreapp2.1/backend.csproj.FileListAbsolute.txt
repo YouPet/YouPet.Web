@@ -1,0 +1,14 @@
+/Users/wanbin/Documents/work/bwkernel/web/backend/bin/Debug/netcoreapp2.1/backend.deps.json
+/Users/wanbin/Documents/work/bwkernel/web/backend/bin/Debug/netcoreapp2.1/backend.runtimeconfig.json
+/Users/wanbin/Documents/work/bwkernel/web/backend/bin/Debug/netcoreapp2.1/backend.runtimeconfig.dev.json
+/Users/wanbin/Documents/work/bwkernel/web/backend/bin/Debug/netcoreapp2.1/backend.dll
+/Users/wanbin/Documents/work/bwkernel/web/backend/bin/Debug/netcoreapp2.1/backend.pdb
+/Users/wanbin/Documents/work/bwkernel/web/backend/obj/Debug/netcoreapp2.1/backend.csprojAssemblyReference.cache
+/Users/wanbin/Documents/work/bwkernel/web/backend/obj/Debug/netcoreapp2.1/backend.csproj.CoreCompileInputs.cache
+/Users/wanbin/Documents/work/bwkernel/web/backend/obj/Debug/netcoreapp2.1/backend.RazorAssemblyInfo.cache
+/Users/wanbin/Documents/work/bwkernel/web/backend/obj/Debug/netcoreapp2.1/backend.RazorAssemblyInfo.cs
+/Users/wanbin/Documents/work/bwkernel/web/backend/obj/Debug/netcoreapp2.1/backend.AssemblyInfoInputs.cache
+/Users/wanbin/Documents/work/bwkernel/web/backend/obj/Debug/netcoreapp2.1/backend.AssemblyInfo.cs
+/Users/wanbin/Documents/work/bwkernel/web/backend/obj/Debug/netcoreapp2.1/backend.RazorTargetAssemblyInfo.cache
+/Users/wanbin/Documents/work/bwkernel/web/backend/obj/Debug/netcoreapp2.1/backend.dll
+/Users/wanbin/Documents/work/bwkernel/web/backend/obj/Debug/netcoreapp2.1/backend.pdb

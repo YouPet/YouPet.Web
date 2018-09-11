@@ -1,0 +1,150 @@
+.Home-banner{
+  height:420px;
+}
+.Home-main{
+  position:relative;
+}
+.Home-comments{
+  width:680px;
+  height:1000px;
+  margin:0 auto;
+  z-index:99;
+  position:relative;
+}
+.Home-comments-menu{
+  padding:0 20px;
+  border-bottom:solid 1px #ebebeb;
+}
+.Home-comments-menu ul{
+  width:100%;
+}
+.Home-comments-menu ul li{
+  width:50px;
+  display:inline-block;
+}
+.Home-comments-menu ul li a{
+  height:50px;
+  line-height:50px;
+  color:#999;
+  font-size:14px;
+  text-align:center;
+}
+.Home-comments-menu ul li a:hover{
+  color:#333;
+}
+.Home-comments-content{
+  
+}
+.Home-comments-item{
+  padding:30px;
+  border-bottom:solid 1px #ebebeb;
+}
+.Home-comments-item .avatar{
+  width:50px;
+  float:left;
+}
+.Home-comments-item .avatar img{
+  width:50px;
+  height:50px;
+  border-radius:50%;
+}
+.Home-comments-item .right{
+  margin-left:60px;
+}
+.Home-comments-item .user{
+  margin-top:5px;
+  height:30px;
+}
+.Home-comments-item .user .name{
+  font-size:14px;
+  font-weight:bold;
+  display:inline-block;
+}
+.Home-comments-item .blog .content span{
+  line-height:18px;
+  color:#666;
+}
+.Home-comments-item .blog .resource img{
+  max-width:550px;
+}
+.Home-module{
+  position:absolute;
+  top:0px;
+  left:0px;
+  z-index:98;
+  width:100%;
+}
+.Home-module .Home-left{
+  width:280px;
+  float:left;
+}
+.Home-module .Home-right{
+  width:280px;
+  height:500px;
+  float:right;
+}
+.Pet-star-info{
+  display: flex;
+  flex-direction: row;
+}
+.Pet-star-info .Pet-star-avatar{
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  font-size: 0;
+  overflow: hidden;
+  flex: 0 1 50px;
+  border-radius: 50%;
+}
+.Pet-star-info .Pet-star-avatar img{
+  width:100%;
+  height:100%;
+  border-radius:50%;
+}
+.Pet-star-info .Pet-star-name{
+  padding: 0 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-grow: 1;
+}
+.Pet-star-info .Pet-star-name .Pet-name{
+  display:block;
+  font-size:16px;
+  font-weight:bold;
+  margin-top:5px;
+  margin-bottom:3px;
+}
+.Pet-star-info .Pet-star-name .Pet-count{
+  color:#999;
+}
+.Pet-star-info .Pet-star-level{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  flex: 0 1 40px;
+}
+.Pet-star-info .Pet-star-level .value{
+  color:#f0531c;
+  font-size:16px;
+  display:block;
+  margin-top:8px;
+}
+.Pet-star-info .Pet-star-level .name{
+  color:#999;
+}
+.Pet-star-desc{
+  margin-top: 6px;
+  color: #666;
+  font-size: 12px;
+  line-height: 16px;
+  max-height: 34px;
+  display: -webkit-box;
+  display: -moz-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-break: break-all;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
